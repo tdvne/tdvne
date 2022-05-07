@@ -1,8 +1,8 @@
 ### About Me
 
-https://github-profile-trophy.vercel.app/?username=tdvne&theme=onedark
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdvne&theme=onedark" alt="tdvne" /></a> </p>
 
-https://discord.c99.nl/widget/theme-1/223523687024820226.png
+<img src="https://discord.c99.nl/widget/theme-1/223523687024820226.png" align="center"/>
 
 - 🏢 I currently own **Esta Network**
 - 📫 Business inquiries: admin@esta.land
