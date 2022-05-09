@@ -1,6 +1,6 @@
 ### About Me
 
-![](https://komarev.com/ghpvc/?username=tdvne&style=plastic)
+![](https://komarev.com/ghpvc/?username=tdvne&style=plastic&color=blueviolet)
 
 - 🏢 I currently own **Esta Network**
 - 📫 Business inquiries: admin@esta.land
