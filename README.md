@@ -1,5 +1,7 @@
 ### About Me
 
+![](https://komarev.com/ghpvc/?username=tdvne&style=plastic)
+
 - 🏢 I currently own **Esta Network**
 - 📫 Business inquiries: admin@esta.land
 - 💬 You can contact me quicker via [Discord](https://discord.esta.land)
