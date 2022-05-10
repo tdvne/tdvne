@@ -11,7 +11,7 @@
 ---
 
 <a href="https://github.com/tdvne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tdvne&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="tdvne's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tdvne&show_icons=true&hide=contribs,prs&cache_seconds=10&theme=midnight-purple" alt="tdvne's Github Stats" />
 </a>
   
 ---
