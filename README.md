@@ -1,18 +1,15 @@
-### About Me
+<div align="center">
+  
+---
 
 ![](https://komarev.com/ghpvc/?username=tdvne&style=plastic&color=blueviolet)
 
-- 🏢 I currently own **Esta Network**
-- 📫 Business inquiries: admin@esta.land
-- 💬 You can contact me quicker via [Discord](https://discord.esta.land)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdvne&theme=onedark" alt="tdvne" /></a> </p>
-
-
-<img src="https://discord.c99.nl/widget/theme-1/223523687024820226.png" align="center"/>
-
+---
 
 <a href="https://github.com/tdvne">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tdvne&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="tdvne's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tdvne&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="tdvne's Github Stats" />
 </a>
+  
+---
+
+[![tdvne's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tdvne&theme=xcode)](https://github.com/tdvne)
