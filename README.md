@@ -2,11 +2,11 @@
   
 ---
   
-![tdvne](https://user-images.githubusercontent.com/10477602/167680547-9d36aea3-a185-44d1-8456-16744dafef6b.png)(https://github.com/tdvne)
+[![tdvne](https://user-images.githubusercontent.com/10477602/167680547-9d36aea3-a185-44d1-8456-16744dafef6b.png)](https://github.com/tdvne)
   
 ---
 
-![](https://komarev.com/ghpvc/?username=tdvne&style=plastic&color=blueviolet)(https://github.com/tdvne)
+[![](https://komarev.com/ghpvc/?username=tdvne&style=plastic&color=blueviolet)](https://github.com/tdvne)
 
 ---
 
