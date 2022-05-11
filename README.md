@@ -2,7 +2,7 @@
   
 ---
 
-![tdvne_banner](https://user-images.githubusercontent.com/10477602/167771523-60bcb5a2-e924-40df-a143-5022fa3f9b18.png)
+![image](https://user-images.githubusercontent.com/10477602/167773175-e0748a26-26dc-4219-8983-678507d80a00.png)
 
 ---
 
