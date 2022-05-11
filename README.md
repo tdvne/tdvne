@@ -15,6 +15,10 @@
 </a>
   
 ---
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tdvne&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+---
 
 [![tdvne's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tdvne&theme=xcode)](https://github.com/tdvne)
   
