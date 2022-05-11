@@ -1,9 +1,9 @@
 <div align="center">
   
 ---
-  
-[![tdvne](https://user-images.githubusercontent.com/10477602/167680547-9d36aea3-a185-44d1-8456-16744dafef6b.png)](https://github.com/tdvne)
-  
+
+![tdvne_banner](https://user-images.githubusercontent.com/10477602/167771523-60bcb5a2-e924-40df-a143-5022fa3f9b18.png)
+
 ---
 
 [![](https://komarev.com/ghpvc/?username=tdvne&style=plastic&color=blueviolet)](https://github.com/tdvne)
